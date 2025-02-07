@@ -29,8 +29,8 @@ Aplikasi Manajemen Keuangan Pribadi adalah aplikasi yang membantu pengguna dalam
    ```
 
 ## 🛠 Teknologi yang Digunakan
-- **Frontend**: HTML / SBADMIN / Bootstrap (versi 4.6.0) / Font Awesome (versi 5.15.3) / DataTables (versi 1.10.20) / jQuery (versi 3.5.1) / Chart.js (versi 2.8.0)
-- **Backend**: Node.js / Express / Django / Flask
+- **Frontend**: HTML / SBADMIN / Bootstrap (versi 4.6.0)-[] / Font Awesome (versi 5.15.3) /DataTables (versi 1.10.20)
+- **Backend**: Framework: CodeIgniter 2
 - **Database**: MySQL
 ---
 Selamat menggunakan Aplikasi Manajemen Keuangan Pribadi! 💰📈

@@ -10,6 +10,10 @@ Aplikasi Manajemen Keuangan Pribadi adalah aplikasi yang membantu pengguna dalam
 - 📝 **CRUD Transaksi**: Pengguna dapat menambah, mengedit, menghapus, dan melihat transaksi keuangan mereka.
 - 📅 **Laporan Bulanan**: Rekap keuangan setiap bulan dalam bentuk laporan yang mudah dipahami.
 
+## 📸 Lampiran Halaman
+- **Halaman Dashboard** : 
+![Lampiran](Image/Dashboard.png)
+
 ## 🚀 Instalasi
 1. Clone repository ini:
    ```bash

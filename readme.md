@@ -15,6 +15,46 @@ Aplikasi Manajemen Keuangan Pribadi adalah aplikasi yang membantu pengguna dalam
 
 ![Lampiran](Image/Dashboard.png)
 
+- **Halaman Transaksi Pemasukan** :
+
+![Lampiran](Image/Transaksi_Pemasukan.png)
+
+- **Halaman Tambah Transaksi Pemasukan** :
+
+![Lampiran](Image/Tambah_Transaksi_Pemasukan.png)
+
+- **Halaman Edit Transaksi Pemasukan** :
+
+![Lampiran](Image/Edit_Transaksi_Pemasukan.png)
+
+- **Halaman Transaksi Pengeluaran** :
+
+![Lampiran](Image/Transaksi_Pengeluaran.png)
+
+- **Halaman Tambah Transaksi Pengeluaran** :
+
+![Lampiran](Image/Tambah_Transaksi_Pengeluaran.png)
+
+- **Halaman Edit Transaksi Pengeluaran** :
+
+![Lampiran](Image/Edit_Transaksi_Pengeluaran.png)
+
+- **Halaman Kategori** :
+
+![Lampiran](Image/Kategori.png)
+
+- **Halaman Tambah Kategori** :
+
+![Lampiran](Image/Tambah_Kategori.png)
+
+- **Halaman Laporan Pemasukan** :
+
+![Lampiran](Image/Laporan_Pemasukan.png)
+
+- **Halaman Laporan Pengeluaran** :
+
+![Lampiran](Image/Laporan_Pengeluaran.png)
+
 ## 🚀 Instalasi
 1. Clone repository ini:
    ```bash

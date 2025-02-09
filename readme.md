@@ -11,7 +11,8 @@ Aplikasi Manajemen Keuangan Pribadi adalah aplikasi yang membantu pengguna dalam
 - 📅 **Laporan Bulanan**: Rekap keuangan setiap bulan dalam bentuk laporan yang mudah dipahami.
 
 ## 📸 Lampiran Halaman
-- **Halaman Dashboard** : 
+- **Halaman Dashboard** :
+
 ![Lampiran](Image/Dashboard.png)
 
 ## 🚀 Instalasi

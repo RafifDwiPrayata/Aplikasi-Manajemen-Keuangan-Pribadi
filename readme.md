@@ -29,7 +29,7 @@ Aplikasi Manajemen Keuangan Pribadi adalah aplikasi yang membantu pengguna dalam
 
 - **Halaman Transaksi Pengeluaran** :
 
-![Lampiran](Image/Transaksi_Pengeluaran.png)
+![Lampiran](Image/Transkasi_Pengeluaran.png)
 
 - **Halaman Tambah Transaksi Pengeluaran** :
 
